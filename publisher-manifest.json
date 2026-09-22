@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "861d812f5bd40d71cc71beb1",
+  "owner": "br5cqyxe",
+  "repo": "page-b1d3a78711f6906f2a797e90",
+  "title": "YOYO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b1d3a78711f6906f2a797e90",
+      "a": "YOYO",
+      "b": "2027官方最新地址导航",
+      "entity": "YOYO",
+      "brand": "YOYO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fb5a59f976923a8106714172bf08bdf7442e37b85938ae0d929fb92f4af6fb1f",
+      "content": {
+        "primary_entity": "YOYO",
+        "keyword1": "YOYO",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择 YOYO 客户端，桌面端、移动端与路由器各有对应订阅配置方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "按需选套餐，按设备配订阅",
+          "AI_DESCRIPTION": "，YOYO 提供基础版、旗舰版与团队版三档订阅，月付与年付均可选择，覆盖日常浏览、流媒体观看与游戏加速等场景。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备并配备 IPLC 专线，团队版每月 1000GB 流量支持 20 台设备。按设备规模和流量用量挑选合适档位，再依客户端说明导入订阅链接即可。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度了解 YOYO 的配置方式。",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版与团队版分别对应 3、5、20 台设备，按实际联网设备数选择即可。",
+          "AI_FEATURE_TEXT_2": "月付适合短期试用，年付折算下来更划算，例如旗舰版按年付仅需 ¥350/年。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线节点，团队版配备 VIP 高带宽节点与定制路由选项。",
+          "AI_FEATURE_TITLE_1": "档位区分",
+          "AI_FEATURE_TITLE_2": "周期选择",
+          "AI_FEATURE_TITLE_3": "线路类型",
+          "AI_GUIDE_INTRO": "三步完成 YOYO 订阅启用：选择套餐、核对适配要求、按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "配置指引",
+          "AI_HERO_INTRO": "YOYO 面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三种订阅方案。用户可根据设备数量与每月流量用量挑选档位，并通过对应客户端导入订阅链接完成配置，适用于流媒体观看、跨区访问与游戏加速等日常场景。",
+          "AI_HERO_SUBTITLE": "三档订阅，按设备与流量灵活选",
+          "AI_HIGHLIGHT_1": "100GB 到 1000GB 流量可选",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "月付年付自由切换",
+          "AI_PLANS_INTRO": "基础版适合 3 台以内设备与轻度流量用户，旗舰版适合 5 台设备及流媒体、游戏场景，团队版面向 20 台设备的高流量需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量估算，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与网络环境满足所选套餐的适配要求，例如路由器需支持订阅导入。",
+          "AI_STEP_TEXT_3": "在对应客户端中新建订阅，粘贴订阅链接并更新节点列表即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "YOYO 多档加速订阅",
+          "AI_FAQ_TITLE": "YOYO 常见问题",
+          "AI_FAQ_INTRO": "订阅选择、设备数量与线路差异。",
+          "AI_FAQ_QUESTION_1": "YOYO 三档套餐分别适合哪些用户？",
+          "AI_FAQ_ANSWER_1": "基础版适合 3 台设备以内、月流量 100GB 的轻度使用；旗舰版适合 5 台设备、需要流媒体和游戏加速的用户；团队版面向 20 台设备及企业路由场景。",
+          "AI_FAQ_QUESTION_2": "YOYO 支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。可根据家庭或办公环境中实际终端数量选择。",
+          "AI_FAQ_QUESTION_3": "YOYO 套餐按年付有什么价格？",
+          "AI_FAQ_ANSWER_3": "基础版按年付 150 元，旗舰版按年付 350 元，团队版按年付 850 元，均相当于按月支付的一定比例折算。",
+          "AI_FAQ_QUESTION_4": "YOYO 旗舰版与团队版线路有什么区别？",
+          "AI_FAQ_ANSWER_4": "旗舰版使用 IPLC 专线并针对游戏加速优化，提供 7x24 优先工单支持；团队版使用 VIP 专属高带宽节点，并支持企业定制路由。",
+          "AI_FAQ_QUESTION_5": "如何为 YOYO 订阅选择客户端？",
+          "AI_FAQ_ANSWER_5": "先确认设备系统类型，再从对应操作系统的客户端列表中选择，参照其配置文档导入 YOYO 订阅信息即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "s3y6vl.cn",
+    "host": "s3y6vl.cn"
+  },
+  "file_hashes": {
+    "index.html": "674b1c23cce98cbdf35ef7498b7bbc2c9ab5de6b0d06d396e14a782d8740e313",
+    "sitemap.xml": "7acded7e08358b699d9d330211a2561976f2c8d7bba7f01d3da297339236e494",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d2bbacf953a4393b8fecbc5cf50026033d7080897e6124bd27ca6b3c3464911a",
+    "robots.txt": "de321f2f353fb764c65ed22fd8f50f9b4d9d13c2f318e9dc56b0cb1b75de6201",
+    "6aa3e98ea4c7516897d8c4a18190768e.txt": "8cb16e80d1f2c87853115c7e920e1641dce5c1e3fcecb5c2dadb54f824f6bcae"
+  },
+  "revision": "3ad81627239034f5839112f7f41407406f8a1a557e3b8822b191c5c8a4bc848a"
+}
